@@ -4,15 +4,18 @@ import Layout from "../components/layout"
 export default () => (
     <Layout> 
     <h1>About Latics</h1>
-    <p>I’m good enough, I’m smart enough, and gosh darn it, people like me!</p>
 
     <p>Local Rivals include Bury FC, Rochdale FC, Preston FC.</p>
+    
+    <p>Donec sed mauris ac magna vestibulum placerat a et risus. Aliquam mollis mi nec magna egestas, in aliquam neque faucibus. Vestibulum eu velit leo. Nulla viverra ante quis ipsum feugiat accumsan. Nunc fringilla, enim at faucibus bibendum, odio nisi aliquet nisi, nec maximus lacus nisl faucibus ipsum. </p>
 
-    <p>https://www.manchestereveningnews.co.uk/all-about/oldham-athletic-fc</p>
+    <p><a href="https://www.efl.com/clubs-and-competitions/sky-bet-league-two/league-table/">English Football League 2</a></p>
 
-    <p>https://www.bbc.co.uk/sport/football/teams/oldham-athletic</p>
+    <p><a href="https://www.manchestereveningnews.co.uk/all-about/oldham-athletic-fc"> Manchester Evening News</a></p>
 
-    <p> https://www.oldham-chronicle.co.uk/news-features/157/latics </p>
+    <p><a href="https://www.bbc.co.uk/sport/football/teams/oldham-athletic"> BBC Sport</a></p>
+
+    <p><a href="https://www.oldham-chronicle.co.uk/news-features/157/latics"> Oldham Chronicle</a></p>
     
 
     </Layout> 
