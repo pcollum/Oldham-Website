@@ -4,10 +4,11 @@ import Layout from "../components/layout"
 export default () => (
     <Layout> 
     <h1>About Latics</h1>
-
     <p>Local Rivals include Bury FC, Rochdale FC, Preston FC.</p>
     
-    <p>Donec sed mauris ac magna vestibulum placerat a et risus. Aliquam mollis mi nec magna egestas, in aliquam neque faucibus. Vestibulum eu velit leo. Nulla viverra ante quis ipsum feugiat accumsan. Nunc fringilla, enim at faucibus bibendum, odio nisi aliquet nisi, nec maximus lacus nisl faucibus ipsum. </p>
+    <p>Donec sed mauris ac magna vestibulum placerat a et risus. Aliquam mollis mi nec magna egestas, in aliquam neque faucibus. Vestibulum eu velit leo. Nulla viverra ante quis ipsum feugiat accumsan. Nunc fringilla, enim at faucibus bibendum, odio nisi aliquet nisi, nec maximus lacus nisl faucibus ipsum. Vivamus eu est vulputate, gravida mauris at, consequat ligula. Duis sollicitudin elementum velit egestas egestas. In condimentum ligula dolor, at feugiat massa bibendum interdum. Aenean varius tempor purus, nec dictum sem ornare vitae. Nam sollicitudin in sapien gravida ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+
+    
 
     <p><a href="https://www.efl.com/clubs-and-competitions/sky-bet-league-two/league-table/">English Football League 2</a></p>
 

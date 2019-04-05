@@ -7,8 +7,5 @@ module.exports = {
         },
       },
     ],
-  }
-
-module.exports = {
     pathPrefix: "/Oldham-Website",
   }

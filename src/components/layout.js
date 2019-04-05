@@ -6,8 +6,6 @@ const ListLink = props => (
   </li>
 )
 
-document.body.style = 'background: #3C33FF;';
-
 export default ({ children }) => (
   <div style={{ margin: `3rem auto`, maxWidth: 650, padding: `0 1rem`, backgroundColor:'white'}}>
   
