@@ -16,7 +16,5 @@ export default () => (
         href="https://www.oldhamathletic.co.uk/"
       />
       </a>
-
-
   </Layout>
 )
