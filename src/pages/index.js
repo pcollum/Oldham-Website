@@ -3,6 +3,9 @@ import Layout from "../components/layout"
 
 export default () => (
   <Layout> 
+    <title>Pete Collum</title>
+    
+
     <a href="https://www.efl.com/clubs-and-competitions/sky-bet-league-two/league-table/">English Football League 2</a>
     <p>
     Oldham Athletic Association Football Club is a professional association football club based in the town of Oldham, Greater Manchester, England. The team compete in League Two, the fourth tier of English football, and play home matches at Boundary Park.
@@ -17,4 +20,5 @@ export default () => (
       />
       </a>
   </Layout>
+
 )

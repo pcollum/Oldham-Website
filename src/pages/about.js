@@ -3,6 +3,7 @@ import Layout from "../components/layout"
 
 export default () => (
     <Layout> 
+    <title>About Latics</title>
     <h1>About Latics</h1>
     <p>Local Rivals include Bury FC, Rochdale FC, Preston FC.</p>
     
