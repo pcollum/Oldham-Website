@@ -24,7 +24,6 @@ export default ({ children }) => (
         <ListLink to="/about/">About</ListLink>
         <ListLink to="/contact/">Contact</ListLink>
         <ListLink to="/form/">Form</ListLink>
-        <ListLink to="/form1/">Form1</ListLink>
       </ul>
     </header>
     {children}
