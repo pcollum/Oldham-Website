@@ -2,6 +2,17 @@ import React from "react"
 import Layout from "../components/layout"
 
 export default () => (
+    <head>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152429901-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-152429901-1');
+      </script>
+    </head>
     <Layout>
     <title>Contact</title>
     <h4>I'd love to talk!</h4>
