@@ -2,6 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 
 export default () => (
+    <Layout>
     <head>
 
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152429901-1"></script>
@@ -13,7 +14,7 @@ export default () => (
         gtag('config', 'UA-152429901-1');
       </script>
     </head>
-    <Layout>
+
     <title>Contact</title>
     <h4>I'd love to talk!</h4>
     <h5>Email me at the address below >></h5>
