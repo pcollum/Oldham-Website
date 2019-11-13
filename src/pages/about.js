@@ -3,7 +3,6 @@ import Layout from "../components/layout"
 
 export default () => (
     <head>
-      //<!-- Global site tag (gtag.js) - Google Analytics -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152429901-1"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
