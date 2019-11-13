@@ -2,17 +2,18 @@ import React from "react"
 import Layout from "../components/layout"
 
 export default () => (
-    <head>
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152429901-1"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments)};
-        gtag('js', new Date());
 
-        gtag('config', 'UA-152429901-1');
-      </script>
-    </head>
     <Layout>
+    <head>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152429901-1"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments)};
+            gtag('js', new Date());
+
+            gtag('config', 'UA-152429901-1');
+          </script>
+     </head>
     <title>About Latics</title>
     <h1>About Latics</h1>
     <p>Local Rivals include Bury FC, Rochdale FC, Preston FC.</p>
